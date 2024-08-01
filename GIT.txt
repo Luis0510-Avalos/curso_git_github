@@ -34,13 +34,24 @@ GIT INIT
 
 RAMAS
 
-*git branch -m "main". Para cambiar el nombre de la rama principal, puede ser main, trunk o development.
+* git branch -m "main". Para cambiar el nombre de la rama principal, puede ser main, trunk o development.
+* git status. Para ver que está pasando con nuestros archivos.
 
 
 
 
 GIT ADD Y GIT COMMIT
 
+* git add " ". Nos permite que los archivos sean guardados, seguidos por git.
+* git add . Añade todos los archivos que están en la carpeta.
+* git commit -m " ". Nos permite comentar las acciones que hemos realizado.
+
+
+
+
+GIT LOG Y GIT STATUS
+
+* git log. Nos permite ver el historial de las acciones que se han realizado al proyecto, commits, autor, fecha, etc...
 
 
 
