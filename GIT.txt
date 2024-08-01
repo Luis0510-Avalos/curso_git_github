@@ -1,0 +1,48 @@
+* Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta proyectos muy grandes con velocidad y eficiencia.
+
+* Nos permite llevar un historial de todos los cambios que suceden en un proyecto.
+
+
+
+
+COMANDOS TERMINAL
+
+* ls. Lista de todos los directorios que tenemos en la carpeta donde estamos.
+* cd. Comando para ir a otro directorio.
+* cd .. Para regresar al directorio anterior.
+* pwd. En que lugar me encuentro.
+* mkdir. Para crear un directorio (carpeta).
+* COPY ON archivo.extensión . Crea un archivo de cualquier extensión y posteriormente podemos rellenar el documento, paramos dando control + z.
+
+
+
+
+CONFIGURACIONES DE GIT
+
+* git config --global user.name "Luis0510-Avalos". El nombre de usuario para todos los proyectos.
+* git config --global user.email "luisavalos.0311@gmail.com". El correo.
+
+
+
+
+GIT INIT
+
+* Inicializamos el repositorio, con esto el proyecto ya empieza a trabajar con git.
+
+
+
+
+RAMAS
+
+*git branch -m "main". Para cambiar el nombre de la rama principal, puede ser main, trunk o development.
+
+
+
+
+GIT ADD Y GIT COMMIT
+
+
+
+
+
+
