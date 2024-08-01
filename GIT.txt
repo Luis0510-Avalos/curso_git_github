@@ -35,7 +35,7 @@ GIT INIT
 RAMAS
 
 * git branch -m "main". Para cambiar el nombre de la rama principal, puede ser main, trunk o development.
-* git status. Para ver que está pasando con nuestros archivos.
+* Podemos decir que la rama main, cada vez que se realice un commit va creciendo.
 
 
 
@@ -44,7 +44,7 @@ GIT ADD Y GIT COMMIT
 
 * git add " ". Nos permite que los archivos sean guardados, seguidos por git.
 * git add . Añade todos los archivos que están en la carpeta.
-* git commit -m " ". Nos permite comentar las acciones que hemos realizado.
+* git commit -m " ". Nos permite comentar las acciones que hemos realizado y guardar nuestro trabajo.
 
 
 
@@ -52,6 +52,25 @@ GIT ADD Y GIT COMMIT
 GIT LOG Y GIT STATUS
 
 * git log. Nos permite ver el historial de las acciones que se han realizado al proyecto, commits, autor, fecha, etc...
+* git log --graph. Nos muestra el historial casi como una rama ascendente.
+* git log --graph --pretty=oneline. Muestra solo los commits.
+* git log --graph --decorate --all --online. Para que no muestre los id de los commits tan largos, sino sea más especifico.
+
+
+
+
+
+GIT CHECKOUT Y GIT RESET
+
+* git status. Para ver que está pasando con nuestros archivos.
+* git checkout. Este comando te permite volver a una versión anterior de un commit o momento en el tiempo del historial de las versiones de tu programa.
+* git reset. Permite deshacer los commit de un repositorio.
+
+
+
+
+
+
 
 
 
