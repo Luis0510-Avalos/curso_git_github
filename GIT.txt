@@ -69,6 +69,18 @@ GIT CHECKOUT Y GIT RESET
 
 
 
+GIT "ALIAS"
+
+* git config --global alias.tree "log --graph --decorate --all --oneline". Sirve para guardar comando que usamos mucho en git, y si es demasiado extenso, podemos guardarlo en un "alias" para no escribirlo todo. (En lo personal, puede ser cuando declaramos una variable con un valor).
+
+
+
+
+FICHERO .GITIGNORE
+
+
+
+
 
 
 
