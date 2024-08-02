@@ -1,2 +1,1 @@
-console.log("Segundo archivo");
-console.log("paso");
+console.log("Hola mundo 2");
